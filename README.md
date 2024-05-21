@@ -35,7 +35,7 @@
 
 
 ### Output:
-![image](https://github.com/Shruthidn27/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138849783/e7313b9f-e48e-4803-b524-3ebac7e67745)
+![image](https://github.com/Shruthidn27/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138849783/86adf069-d704-4bf6-9113-95617190cfa2)
 
 
 ### Name: SHRUTHI D.N 
